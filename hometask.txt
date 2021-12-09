@@ -1,1 +1,6 @@
 1)ветка master отличается от ветки demo содержимым файла README
+2)diff between master and demo
+3)Merge branch 'boots_buttons'
+4)Merge remote-tracking branch 'origin/hat'
+5)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+6)Merge remote-tracking branch 'origin/boots' into boots_buttons
